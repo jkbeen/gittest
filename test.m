@@ -7,3 +7,4 @@ B=[x3 1; x4 1];
 inv(B)
 
 test test
+test2
